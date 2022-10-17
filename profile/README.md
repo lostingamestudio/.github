@@ -2,7 +2,7 @@
 # Game
 - Entity Hidden Program
 # Plugin
-- Touch Designer | https://www.touchdesigner.lostingamestudio.com/
+- Virtual Control Designer | https://www.virtualcontroldesigner.lostingamestudio.com/
 # Support Us
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3EMY6U)
 
