@@ -1,10 +1,9 @@
 # Lost in Game Studio is creating Games and Plugin.
 # Game
 - Entity Hidden Program
+- Altered Photon
 # Plugin
 - Touch Interface Designer | https://www.touchinterfacedesigner.lostingamestudio.com/
-# Support Us
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3EMY6U)
 
 <!--
 
