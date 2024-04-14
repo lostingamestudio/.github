@@ -3,7 +3,7 @@
 - Entity Hidden Program
 - Altered Photon
 # Plugin
-- Touch Interface Designer | https://www.touchinterfacedesigner.lostingamestudio.com/
+- Touch Interface Designer | https://www.lostingamestudio.com/touch-interface-designer
 
 <!--
 
