@@ -1,9 +1,12 @@
 # Lost in Game Studio is creating Games and Plugin.
+
 # Game
-- Entity Hidden Program
-- Altered Photon
+- Lost in Portal
+
 # Plugin
-- Touch Interface Designer | https://www.lostingamestudio.com/touch-interface-designer
+- [Touch Interface Designer](https://www.lostingamestudio.com/touch-interface-designer)
+- [Impact Designer](https://www.lostingamestudio.com/impact-designer)
+- [Weapon Designer](https://www.lostingamestudio.com/weapon-designer)
 
 <!--
 
